@@ -1,0 +1,15 @@
+1. Mục đích và tài liệu cho dự án
+    - Mục đích là muốn tạo ra một component cho phần friends-list giống facebook
+    - Tài liệu
+        + https://evondev.com/css-scroll-snap/
+2. Các feature
+
+3. Các thứ đã hoàn thành
+
+4. Lỗi
+    4.1 Install sass thành công nhưng không thể generate scss to css
+    - https://stackoverflow.com/questions/57673913/vsc-powershell-after-npm-updating-packages-ps1-cannot-be-loaded-because-runnin
+    4.2 Không auto generate scss to css
+    - https://stackoverflow.com/questions/43599308/can-anyone-tell-me-how-to-compile-sass-into-css-automatically/43602534
+    
+

@@ -1,11 +1,20 @@
 html {
     font-size: 62.5%;
+    height:100%;
+    body{
+        height:100%;
+    }
 }
 
-.container{
-    ul {
-        li {
-            color:red;
-        }
-    }
+.purple-square-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.purple-square {
+  background-color: #B10DC9;
+  width: 300px;
+  height: 300px;
 }
